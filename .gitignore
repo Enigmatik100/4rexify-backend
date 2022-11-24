@@ -1,4 +1,4 @@
 .env
 .flaskenv
 .idea
-./venv
+/venv
